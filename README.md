@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**g-ip/g-ip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+gip@gips-pc~$ cat gip.txt
+hi! im a 14 year old developer from the US.
+my dad started teaching me programming in 2018!
+here's some projects i have made:
+  - transpiler to NASM (from custom low-level lang)
+  - small game engine in CPP (console-based RPG games)
+  - various small neural nets for emotion recognition in text
+gip@gips-pc-$
+```
